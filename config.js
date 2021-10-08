@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Em à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Hà ơi, mình có điều muốn nói với Hàaaaaa',
+    introDesc: `HAPPY BIRTHDAY TO YOUUU`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    title: 'chúc mừng sinh nhật Hà nhé, mình chúc Hà luôn khỏe mạnh, xinh đẹp và thuận buồm xuôi gió trong học tập và công việc, ngập ngụa trong tình yêu 😙',
+    desc: 'Khi Hà nhận được tin nhắn này thì hãy cười đi nhé, vì ít nhất có mình mong Hà hạnh phúc, vui vẻ và luôn yêu đời ',
+    btnYes: 'Thích lắm <33',
+    btnNo: 'Không nhaaa :3',
+    question:'Trong cuộc sống có vô vàn cuộc gặp gỡ, có người đến người đi nhưng mà chúng ta đã có duyên trở thành bạn bè tốt của nhau, vì sao ấy nhỉ <3',
+    btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'Mình biết mà 🥰. Yêu Hà nhiều nhiều 😘😘, thật ra thì câu trả lời đều nầm trong tim mỗi người rồi, không cần phải nói thì chúng mình cũng biết tình cảm dành cho nhau',
+    messDesc: 'Mong được gặp Hà sớm nhất có thể và hãy dành thêm nhiều thời gian cho nhau nhé, hoặc Hà chỉ cần nhớ là trong tim mình luôn có hà là được',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nguyensu5120/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/lalle.amy.3' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
